@@ -1,5 +1,5 @@
-#User-specific Tasks
-tasks/*
+#Tests
+test/*
 
 # Prerequisites
 *.d
